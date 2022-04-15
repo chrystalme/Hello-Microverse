@@ -1,12 +1,12 @@
 {
   "devDependencies": {
-    "hint": "^6.0.x",
-     "stylelint": "13.3.x",
+    "hint": "6.0.x",
+    "stylelint": "13.3.x",
     "stylelint-config-standard": "20.0.x",
     "stylelint-scss": "3.17.x"
   },
   "name": "hello-microverse",
-  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "description": "This repo host an initial code for the tasks performed during the Code Reviewers training.",
   "version": "1.0.0",
   "main": "index.html",
   "scripts": {
